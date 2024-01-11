@@ -1,0 +1,5 @@
+Return all lines
+in the file,
+as a list where each
+line is an item in
+the list object
